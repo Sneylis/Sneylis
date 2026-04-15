@@ -15,7 +15,15 @@ https://Sneylis.github.io **— Doc, Security Research, R&T dev notes**
 ![Rust](https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=white)
 
+* Web development
+* Windows API & Kernel C++
+* Reverse Engineering, Shellcode, Low-level stuff
 
+---
+### Focus
+* Reverse Engenering
+* Shellcode/RAT/C2 Developmnet
+* WEB/Internal Penetration Test and Tool Dev
 ---
 
 ### 👨‍💻 My Projects
