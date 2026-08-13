@@ -1,8 +1,3 @@
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneylis&show_icons=true&theme=dark&bg_color=1c1c1c&title_color=ffffff&text_color=9f9f9f&icon_color=79ffad" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneylis&layout=compact&theme=dark&bg_color=1c1c1c&title_color=ffffff&text_color=9f9f9f" alt="Top Langs" />
-</p>
-
 ---
 ### [Bolog]
 https://Sneylis.github.io **— Doc, Security Research, R&T dev notes**
