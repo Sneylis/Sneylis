@@ -27,5 +27,5 @@ https://Sneylis.github.io **— Doc, Security Research, R&T dev notes**
 * **[RustyPain]** - C2 writi in rust, with modules for Beacon (Loadaer, Executor, log cleaner) [private]
 * **[Astarot](https://github.com/Sneylis/Astarot)** - Recon tool for WEB penetration test. (https://github.com/Sneylis/Astarot)
 * **[RAS_DEL](https://github.com/Sneylis/RAS_Deleter)** - Tool for delete RAS programms (Portable or Instaled) via MFT Scan
-* **[FartSuite] - Tool for pentesting tcp connections as Think Client and others [Private]
-* **[EvlPrx] - Custom Evil Proxy for Phishing attacks (Outlook, MS360, Google) [Private]
+* **[FartSuite]** - Tool for pentesting tcp connections as Think Client and others [Private]
+* **[EvlPrx]** - Custom Evil Proxy for Phishing attacks (Outlook, MS360, Google) [Private]
