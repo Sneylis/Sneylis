@@ -17,6 +17,7 @@ https://Sneylis.github.io **— Doc, Security Research, R&T dev notes**
 
 ---
 ### Focus
+* AI Offensive Security Tooling
 * Reverse Engenering
 * Shellcode/RAT/C2 Developmnet
 * WEB/Internal Penetration Test and Tool Dev
